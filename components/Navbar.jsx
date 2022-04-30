@@ -11,7 +11,7 @@ const Navbar = () => {
         <React.Fragment>
             <div className="navbar-container">
                 <p className="logo">
-                    <Link href="/">Prajul's Shop</Link>
+                    <Link href="/">Prajul&apos; Shop</Link>
                 </p>
                 <button type="button" className="cart-icon" onClick={() => setShowCart(true)}>
                     <AiOutlineShopping/>
