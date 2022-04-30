@@ -5,7 +5,7 @@ const Footer = () => {
     return (
         <React.Fragment>
             <div className="footer-container">
-                <p>2022 🔥 Prajul&apos; Shop 🔥 All rights reserved</p>
+                <p>2022 🔥 Prajul&apos;s Shop 🔥 All rights reserved</p>
 
                 <p className="icons">
                     <AiFillInstagram/>
